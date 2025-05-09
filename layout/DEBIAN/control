@@ -1,0 +1,9 @@
+Package: com.randy420.420crackz
+Name: 420Crackz
+Version: 1.0
+Architecture: iphoneos-arm
+Description: automatically unlock all apps I've cracked... and maybe more?
+Author: Randy420
+Maintainer: Randy420
+Section: Tweaks
+Depends: firmware (>= 12.0)
